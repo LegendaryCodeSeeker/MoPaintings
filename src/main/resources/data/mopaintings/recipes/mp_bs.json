@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "WWW",
+      "RXR",
+      "WWW"
+    ],
+    "key": {
+      "W": {
+        "tag": "minecraft:planks"
+      },
+      "R": {
+        "tag": "mopaintings:mp_books"
+      },
+      "X": {
+        "item": "mopaintings:sketch_kit"
+      }
+    },
+    "result": {
+      "item": "mopaintings:mp_bookshelf",
+      "count": 1
+    }
+}

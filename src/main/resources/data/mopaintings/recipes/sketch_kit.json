@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:feather"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+            "item": "minecraft:charcoal"
+        },
+        {
+            "item": "mopaintings:paper_bundle"
+        }
+    ],
+    "result": {
+        "item": "mopaintings:sketch_kit",
+        "count": 1
+    }
+}

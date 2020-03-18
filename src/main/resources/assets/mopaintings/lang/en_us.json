@@ -1,0 +1,17 @@
+{
+    "itemGroup.more_paintings.items": "More Paintings Items",
+    "itemGroup.more_paintings.blocks": "More Paintings Blocks",
+
+    "item.mopaintings.painting_debug": "MPDebug",
+    "item.mopaintings.paper_bundle": "Bundle of paper",
+    "item.mopaintings.sketch_kit": "Sketching kit",
+    "item.mopaintings.be_book": "Beth's journal",
+    "item.mopaintings.bo_book": "Bob's art book",
+    "item.mopaintings.ja_book": "Notes of Jas",
+    "item.mopaintings.fr_book": "-Fred's",
+    "item.mopaintings.sm_book": "Smith's collection",
+    "item.mopaintings.re_book": "Rebo Herin's records",
+    "item.mopaintings.ra_book": "Jumbled art collection",
+
+    "block.mopaintings.mp_bookshelf": "Bookshelf"
+}

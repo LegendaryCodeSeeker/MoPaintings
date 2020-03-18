@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "":  [
+            { "model": "mopaintings:block/mp_bs"},
+            { "model": "mopaintings:block/mp_bs_alt"},
+            { "model": "mopaintings:block/mp_bs_alt_0"}
+        ]
+    }
+}
